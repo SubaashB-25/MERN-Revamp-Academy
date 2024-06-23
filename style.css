@@ -1,0 +1,33 @@
+.b{
+  background-image: url('https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+.h1{
+  font-size: 3em;
+}
+.h2{
+  text-align: start;
+}
+.p2{
+  text-align: start;
+}
+.btn{
+  color: white;
+  font-size: large;
+  background-color: #fea71c;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.p3{
+  text-decoration: underline;
+}
