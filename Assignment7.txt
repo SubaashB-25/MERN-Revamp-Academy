@@ -1,0 +1,45 @@
+1. WHAT IS HTML ?
+Ans. Hyper Text  Markup Language.
+
+2. WHY HTML IS USED ?
+Ans. Used to add content in a web page.
+
+3. What is Emmet & List 5 Emmet ?
+Ans. Emmet is a built-in feature in Visual Studio Code that act as a shortcut and prevents us from writing the entire code.
+
+5 Emmets:-
+- html:5
+- link:css
+- Lorem20
+- script:src
+- tac
+
+4. SHORT CUT CREATE of Emmet Boiler plate of HTML ?
+Ans. html:5
+
+5. WHAT IS HEAD TAG ?
+Ans. It contains Metadata about the html
+
+6. WHAT IS BODY TAG ?
+Ans. It contains all the contents of the HTML page
+
+7. IMPORTANT 3 ELEMENTS OR TAGS ?
+Ans. <head>, <body>, <img>
+
+8. WHAT IS DIFFERENT B/W ELEMENTS & TAGS IN HTML ?
+Ans. HTML Tags are the starting and ending parts of an HTML element, whereas elements are the tags along with the content inside them.
+
+9. WHAT IS CSS ?
+Ans. Cascading Styling Sheets
+
+10. WHY IS CSS ?
+Ans. Used to style a web page
+
+11. HOW TO CONNECT HTML & CSS , Tell the emmet Shortcut ?
+Ans. link:css
+
+12. WHEN TO USE BACKGROUND IMG VS IMG TAG ?
+Ans. Background img is used to add an image ass the background, whereas img tag is used to just add an image on the web page.
+
+13. WHAT IS TAILWIND CSS & WHY IS IT USED ?
+Ans. Tailwind is a CSS framework that is used to style the web page without leaving the html file.
